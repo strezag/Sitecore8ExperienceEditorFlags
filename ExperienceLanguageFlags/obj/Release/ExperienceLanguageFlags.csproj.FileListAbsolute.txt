@@ -1,0 +1,10 @@
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\ExperienceLanguageFlags.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\ExperienceLanguageFlags.pdb
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Sitecore.ExperienceEditor.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Sitecore.ExperienceEditor.Speak.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Sitecore.ExperienceEditor.Speak.Ribbon.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Sitecore.Kernel.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Newtonsoft.Json.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\bin\Sitecore.Kernel.xml
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\obj\Release\ExperienceLanguageFlags.dll
+c:\users\gstreza\documents\visual studio 2012\Projects\ExperienceLanguageFlags\ExperienceLanguageFlags\obj\Release\ExperienceLanguageFlags.pdb
